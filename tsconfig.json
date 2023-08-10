@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "moduleResolution": "NodeNext",
+        "target": "ESNext",    
+        "esModuleInterop": true,
+        "jsx": "react"
+    },
+    "exclude": ["node_modules", "dist", ".parcel-cache", ".yarn"]
+}
